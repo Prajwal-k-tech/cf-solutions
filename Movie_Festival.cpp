@@ -26,5 +26,5 @@ int main(){
          ans++;
         ls = movies[i].second;}
     }
-    cout << ans << nl;
+       cout << ans << nl;
 }
