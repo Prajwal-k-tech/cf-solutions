@@ -5,3 +5,7 @@ A personal archive of solutions written while practicing competitive programming
 Most solutions are written in C++; a small number are in Java. Filenames usually use the problem title, with spaces replaced by underscores. Codeforces files may also include the problem letter, and some CSES solutions are grouped under the problem-set directory.
 
 This is an evolving archive. It records practice work and does not imply that every solution has been accepted by its original judge.
+
+## Recovery
+
+See [RECOVERY.md](RECOVERY.md) for rebuilding an offloaded checkout and restoring its dependencies/data.
